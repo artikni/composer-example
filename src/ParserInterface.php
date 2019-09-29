@@ -1,6 +1,6 @@
 <?php
 
-namespace artyosmky\parser;
+namespace artyomsky\parser;
 /**
  *
  * Artyom Ni

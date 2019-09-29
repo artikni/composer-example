@@ -1,6 +1,6 @@
 <?php
 
-namespace artyosmky\parser;
+namespace artyomsky\parser;
 
 /* 
  * Parser Class, author Artyom Ni artyom.ni@gmail.com
